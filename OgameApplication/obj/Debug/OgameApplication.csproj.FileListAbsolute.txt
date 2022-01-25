@@ -1,0 +1,6 @@
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/bin/Debug/OgameApplication.exe
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/bin/Debug/OgameApplication.pdb
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/obj/Debug/OgameApplication.csprojAssemblyReference.cache
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/obj/Debug/OgameApplication.csproj.CoreCompileInputs.cache
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/obj/Debug/OgameApplication.exe
+/Users/safouane/RiderProjects/OgameApplication/OgameApplication/obj/Debug/OgameApplication.pdb
